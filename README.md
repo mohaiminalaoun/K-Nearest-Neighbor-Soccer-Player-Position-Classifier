@@ -1,2 +1,1 @@
-# K-means-Clustering
-K-means clustering of UEFA Champions League scorers
+# K-Nearest-Neighbor-Soccer-Player-Position-Classifier
