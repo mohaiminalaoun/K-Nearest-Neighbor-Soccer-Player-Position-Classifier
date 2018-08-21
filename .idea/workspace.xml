@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af76d67c-1ac8-41a2-8224-0ec765b9d252" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/soccer.m" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SoccerPositions/Preprocessor.class" afterPath="$PROJECT_DIR$/out/production/SoccerPositions/Preprocessor.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/soccerdata.csv" afterPath="$PROJECT_DIR$/resources/soccerdata.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Preprocessor.java" afterPath="$PROJECT_DIR$/src/Preprocessor.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,22 +20,10 @@
       <file leaf-file-name="Preprocessor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Preprocessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1150">
-              <caret line="46" column="37" lean-forward="false" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+            <state relative-caret-position="281">
+              <caret line="74" column="9" lean-forward="false" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/SoccerPositions/Client.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#307#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,16 +54,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -128,6 +102,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$MAVEN_REPOSITORY$/org/la4j/la4j/0.3.0/la4j-0.3.0.jar!/org/la4j/vector/AbstractVector.class" />
         <option value="$PROJECT_DIR$/resources/soccerdata.csv" />
+        <option value="$PROJECT_DIR$/src/Enum_Positions.java" />
         <option value="$PROJECT_DIR$/src/Preprocessor.java" />
       </list>
     </option>
@@ -154,6 +129,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -205,28 +182,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="out" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="production" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoccerPositions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Soccer Position Classiier" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoccerPositions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -251,8 +206,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -598,8 +551,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3608018" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3608018" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -609,8 +562,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -626,7 +579,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -634,6 +589,48 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Preprocessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SoccerPositions.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/org_la4j_la4j_0_3_0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/soccerdata.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="74" lean-forward="false" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Preprocessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -688,44 +685,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-          <folding>
-            <marker date="1534560520913" expanded="true" signature="49750:49767" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49750:49785" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49750:49798" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49750:49813" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49848:52063" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49861:52048" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49915:50210" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49934:50195" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49997:50175" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50037:50141" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50058:50119" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50260:50587" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50279:50572" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50374:50552" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50414:50518" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50435:50496" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50638:50903" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50657:50888" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50690:50868" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50730:50834" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50751:50812" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50946:51252" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50965:51237" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51039:51217" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51079:51183" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51100:51161" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51303:51660" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51322:51645" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51408:51625" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51448:51591" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51469:51569" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51712:52034" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51731:52019" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51821:51999" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51861:51965" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51882:51943" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -765,59 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-          <folding>
-            <marker date="1534560520913" expanded="true" signature="49750:49767" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49750:49785" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49750:49798" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49750:49813" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49848:52063" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49861:52048" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49915:50210" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49934:50195" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="49997:50175" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50037:50141" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50058:50119" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50260:50587" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50279:50572" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50374:50552" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50414:50518" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50435:50496" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50638:50903" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50657:50888" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50690:50868" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50730:50834" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50751:50812" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50946:51252" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="50965:51237" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51039:51217" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51079:51183" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51100:51161" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51303:51660" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51322:51645" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51408:51625" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51448:51591" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51469:51569" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51712:52034" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51731:52019" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51821:51999" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51861:51965" ph="..." />
-            <marker date="1534560520913" expanded="true" signature="51882:51943" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/org_la4j_la4j_0_3_0.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -826,17 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="191" column="27" lean-forward="false" selection-start-line="191" selection-start-column="18" selection-end-line="191" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/SoccerPositions/Client.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#307#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -856,6 +752,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Enum_Positions.java" />
     <entry file="file://$PROJECT_DIR$/src/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -864,10 +761,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/org_la4j_la4j_0_3_0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/SoccerPositions/Client.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/SoccerPositions/Preprocessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Preprocessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="46" column="37" lean-forward="false" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+        <state relative-caret-position="281">
+          <caret line="74" column="9" lean-forward="false" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
